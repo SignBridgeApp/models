@@ -1,0 +1,6 @@
+--pre -f https://dist.mxnet.io/python 'mxnet==2.0.0b20220206'
+torch==1.10.0
+sockeye==3.0.13
+numpy==1.19.0
+git+https://github.com/sign-language-processing/signwriting
+sentencepiece
