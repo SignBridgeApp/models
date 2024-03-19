@@ -1,1 +1,1 @@
-# Models for SLP
+# Helper models for SignBridge Server
