@@ -8,4 +8,4 @@ Need GPU with CUDA support to train
 
   2. For Windows it is much easier just follow [this](https://github.com/pytorch/pytorch?tab=readme-ov-file#prerequisites)
 
-# SignWriting
+more info : https://github.com/sign-language-processing/signbank-plus
